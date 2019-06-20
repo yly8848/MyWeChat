@@ -1,7 +1,7 @@
 # MyWeChat
 Python+itchat, 一个简单的微信机器人脚本
 
-##参考工程
+## 参考工程
 Github: [https://github.com/likaixiang/EverydayWechat](https://github.com/likaixiang/EverydayWechat)。
 去除了yam配置文件,以及定时任务
 定时任务使用 threading.Timer 来实现
@@ -14,9 +14,11 @@ Github: [https://github.com/likaixiang/EverydayWechat](https://github.com/likaix
 
 ## API接口
 
-天气来源: [SOJSON][https://www.sojson.com/blog/305.html]
-每日一句: [金山词霸][http://open.iciba.com/?c=api]
-AI聊天 : [图灵机器人][http://www.turingapi.com/]
+天气来源: [SOJSON](https://www.sojson.com/blog/305.html)
+
+每日一句: [金山词霸](http://open.iciba.com/?c=api)
+
+AI聊天 : [图灵机器人](http://www.turingapi.com/)
 
 ## 目录结构
 
